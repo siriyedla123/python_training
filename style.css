@@ -1,0 +1,27 @@
+div.main{
+  overflow: hiden;
+  white-space: nowrap;
+  background-color: #333;
+  float:left;
+  margin: 10px;
+  
+  
+}
+div.main a{
+  display: inline-block;
+  color: white;
+  margin:10px;
+  font-size:30px;
+
+  padding: 25px;
+  text-decoration: none;
+
+  
+  
+}
+h1{
+  text-align:center;
+  background-color: red;
+  font-family:bold;
+  padding:5px;
+}
